@@ -1,0 +1,42 @@
+{
+  "businessName": "Crusty Crumbs",
+  "industry": "Food Manufacturing",
+  "tone": "warm and professional",
+  "tagline": "Crafting Quality Baked Goods for Every Occasion",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Crusty Crumbs – Where Freshness Meets Excellence. As one of Lagos's trusted food manufacturing specialists, we deliver premium baked goods crafted with the finest ingredients. From artisan breads to delectable pastries, every product is made with passion and precision to satisfy your cravings and elevate your dining experience.",
+      "imagePrompt": "Photorealistic overhead shot of golden-brown freshly baked artisan bread loaves and croissants on a rustic wooden table in a modern Nigerian bakery, warm ambient lighting filtering through windows, flour dust particles visible in air, professional commercial kitchen in soft focus background, rich warm tones, inviting atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Crusty Crumbs is a dedicated food manufacturing company based in the heart of Lagos, Nigeria. Operating from our facility in Omole Phase 2, we combine traditional baking techniques with modern food safety standards to produce consistently excellent baked goods. Our commitment to quality ingredients, hygienic production processes, and customer satisfaction has made us a preferred choice for individuals, restaurants, hotels, and retailers across Lagos. Whether you need daily bread supplies, special occasion cakes, or bulk orders for your business, Crusty Crumbs delivers freshness and flavour you can trust.",
+      "imagePrompt": "Photorealistic image of a clean, modern Nigerian bakery production facility with stainless steel equipment, professional bakers in white uniforms and hairnets working at preparation stations, trays of various baked goods cooling on industrial racks, bright natural lighting from large windows, spotless tiled floors, professional food manufacturing environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "At Crusty Crumbs, we manufacture a wide range of quality baked goods to meet diverse needs:\n\n**Artisan Breads** – Fresh daily breads including white, wheat, and specialty loaves perfect for homes and restaurants.\n\n**Pastries & Confectioneries** – Delicious croissants, doughnuts, meat pies, sausage rolls, and chin-chin for retail and events.\n\n**Custom Cakes** – Beautifully crafted cakes for birthdays, weddings, corporate events, and special celebrations.\n\n**Bulk Supply** – Reliable wholesale supply for hotels, restaurants, supermarkets, and corporate cafeterias.\n\n**Event Catering** – Complete baked goods packages for conferences, parties, and special occasions.\n\nAll products are manufactured under strict hygiene standards and delivered fresh to your location across Lagos.",
+      "imagePrompt": "Photorealistic display of diverse Nigerian baked goods arranged on elegant tiered stands – golden meat pies, glazed doughnuts, flaky croissants, sliced artisan bread, decorated celebration cake, packaged chin-chin, all professionally styled on white marble surface with soft studio lighting, vibrant colours, appetizing presentation, commercial food photography style",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to experience the Crusty Crumbs difference? We're here to serve you with fresh, quality baked goods delivered right to your doorstep. Whether you're placing a bulk order for your business or need custom cakes for a special event, our team is ready to assist.\n\n**Visit Our Facility:**\n7a, Tobak Okunoren Crescent, Omole Phase 2, Lagos\nKosofe, Nigeria\n\n**Call or WhatsApp:**\n+234 805 246 3166\n\n**Business Hours:**\nMonday – Saturday: 7:00 AM – 7:00 PM\nSunday: 9:00 AM – 5:00 PM\n\nWe accept orders for same-day delivery within Lagos (order before 10 AM) and can arrange bulk supply contracts for businesses. Contact us today to discuss your requirements and get a quote!",
+      "imagePrompt": "Photorealistic image of a welcoming Nigerian bakery storefront in Omole Phase 2 Lagos, modern signage reading 'Crusty Crumbs', glass display windows showing baked goods, customers entering through open doors, delivery van with company branding parked outside, well-maintained building facade, lush tropical plants, bright sunny day, professional commercial photography",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 805 246 3166",
+    "email": "",
+    "address": "7a, Tobak Okunoren Crescent, Omole Phase 2, Lagos, Kosofe, Nigeria",
+    "whatsapp": "https://wa.me/2348052463166"
+  }
+}
